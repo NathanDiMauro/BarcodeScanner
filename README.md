@@ -1,0 +1,2 @@
+# BarcodeScanner
+Created with CodeSandbox
